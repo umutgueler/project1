@@ -1,0 +1,31 @@
+h1 {
+    margin: 5rem;
+}
+p {
+    margin-bottom: 0;
+}
+#seats{
+    margin-top: 5rem;
+}
+.seat {
+    
+    border: 1px solid black;
+    width: 5rem;
+    height: 5rem;
+    
+}
+
+.freeseatdiv{
+    background-color:aquamarine;
+}
+.fillseatdiv{
+    background-color:red;
+}
+
+.freeseatlink {
+    color: red;
+}
+
+.fillseatlink {
+    color:aquamarine;
+}
